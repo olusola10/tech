@@ -1,0 +1,355 @@
+a:hover{
+    color: black;
+}
+.header{
+    display: flex;
+    margin-left: 50px;
+
+}
+.logo1{
+    display: flex;
+}
+.link{
+    margin-right: 50px;
+    padding-left: 500px;
+    margin-top: 40px;
+}
+h2{
+    font-size: 20px;
+}
+.im{
+    width: 70px;
+    margin-top: 10px;
+}
+.down{
+    padding-right: 40px;
+}
+.login{
+    padding-right: 40px;
+}
+#bkg{
+    background-image: url('bg.jpg');
+}
+#location{
+    display: flex;
+}
+#tar{
+    margin-left: 100px;
+color: white;
+}
+#sta{
+    color: white;
+}
+
+.enro{
+     color: white;
+}
+.bec{
+   color: white;
+}
+#btn{
+    background-color: blue;
+    width: 300px;
+    margin-left: 10px;
+}
+#form{
+    margin-left: 600px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+#joepe{
+    display: flex;
+}
+.j{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+.p{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    margin-left: 160px;
+}
+.r{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.pete{
+    padding-left: 100px;
+}
+.joe{
+    padding-right: 100px;
+}
+.ril{
+    padding-left: 400px;
+}
+.bre{
+    color: crimson;
+    padding-left: 100px;
+}
+.bold{
+    text-decoration: black;
+font-weight: 700;
+}
+.coding{
+    display: flex;
+}
+.mi{
+    padding-right: 100px;
+}
+.build{
+    font-size: 19px;
+}
+.what{
+    font-size: 50px;
+    margin-left: 30px;
+}
+.tin{
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 600px;
+    height: 40px;
+    width: 200px;
+    border-radius: 100px;
+    border-radius: 10%
+
+}
+
+.learn{
+    display: flex;
+}
+.tin:hover{
+    color: skyblue;
+    cursor: pointer;
+}
+.group{
+    display: flex;
+}
+.weteach{
+    margin-right: 40px;
+    
+    border-bottom: solid 1px;
+}
+.fun{
+    display:flex;
+    
+}
+.the{
+    padding-right: 50px;
+}
+.pac{
+    background-color: white;
+    margin-right: 100px;
+    margin-left: 100px ;
+    border-radius: 20px;
+    padding-left: 10px;
+
+
+}
+.sec{
+    background-color: silver;
+}
+.library{
+    padding-right: 10px;
+}
+.stu{
+    width: 1000px;
+    padding-left: 100px;
+}
+.fac{
+    background-color: white;
+    width: 350px;
+    border: 15px solid white ;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 800px;
+    bottom: 600px;
+}
+
+.wor{
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+    
+    
+
+}
+.div{
+    width: 50px;
+    border: 4px solid blue;
+    margin-left: 600px;
+
+}
+.choose{
+    display: flex;
+}
+.stude{
+    width: 600px;
+    margin-right: 90px;
+
+}
+.boldd{
+    font-weight: bold;
+}
+.why{
+    text-align: center;
+}
+.box{
+    width: 40px ;
+    border: 3px solid blue;
+    margin-left: 250px;
+}
+
+.pro{
+    background-color: blue;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.smile{
+    display: flex;
+}
+.drag{
+    width: 600px;
+    margin-right: 100px;
+}
+.career{
+    text-align: center;
+}
+.boxx{
+    width: 50px;
+    border: solid blue 3px;
+    margin-left: 630px;
+}
+.car{
+    font-size: 50px;
+}
+.box1{
+    background-color: blue;
+    display: flex;
+    position: relative;
+    left: 150px;
+    width: 900px;
+    border-radius: 10px;
+    border: solid blue  
+
+}
+
+.get{
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 220px;
+
+}
+.inter{
+    font-size: 30px;
+}
+.ion{ 
+    background-color: silver;
+    padding: 40px 40px 40px 40px ;
+}
+.get:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.pro:hover{
+    background-color: white;
+    cursor: pointer;
+
+}
+.text{
+    text-align: center;
+}
+.box2{
+    border: solid blue 4px;
+    width: 40px;
+    margin-left: 645px;
+
+}
+
+.gram{
+    background-color: blue;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.cou{
+    display: flex;
+}
+
+.mar{
+    margin-left: 80px;
+}
+.jug{
+    margin-left: 30px;
+}
+.aim{
+    
+    display: flex
+
+}
+
+.box3{
+    background-color: white;
+    border: solid white 4px ;
+    margin-left: 30px;
+
+
+}
+.jk{
+background-color: navy;
+padding: 10px 10px 10px 10px;
+}
+
+.box4{
+    background-color: crimson;
+    border: solid crimson 4px;
+    margin-left: 600px;
+
+}
+.star{
+     width: 300px;
+     height: 60px;
+     background-color: darkblue;
+}
+.ui{
+    display: flex;
+    color:white;
+    background-color: black;
+}
+
+.p{
+    margin-left: 100px;
+}
+.hik{
+    margin-left: 250px;
+}
+.tt{
+    width: 400px;
+    height: 50px;
+}
+.nth{
+    background-color: darkblue;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+.ben{
+    margin-left: 140px;
+}
+.bee{
+    text-align: center;
+}
